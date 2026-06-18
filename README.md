@@ -1,2 +1,2 @@
-# Dragonglass
-Vim-based Obsidian alternative
+# <samp>Dragonglass</samp>
+<samp>Vim-based Obsidian alternative</samp>
